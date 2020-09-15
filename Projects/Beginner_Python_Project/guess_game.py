@@ -6,6 +6,7 @@ count = 0
 fname = 'fruits.txt'
 fhand = open(fname).read().splitlines()
 text = random.choice(fhand)
+text = text.lower()
 
 def get_input():
     # get the word for guessing
