@@ -1,4 +1,4 @@
-Dataset: CIFAR-10
-Classes: 10
-Learning: Supervised Learning
-Test Accuracy: 70.2%
+Dataset: CIFAR-10 <br/>
+Classes: 10 <br/>
+Learning: Supervised Learning <br/>
+Test Accuracy: 70.2% <br/>
