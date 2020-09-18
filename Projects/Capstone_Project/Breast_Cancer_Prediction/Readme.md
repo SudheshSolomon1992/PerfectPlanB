@@ -1,4 +1,4 @@
-Dataset: Breast Cancer Dataset from sklearn <br/>
+Dataset: Breast cancer dataset from sklearn <br/>
 Number of classes: 2 <br/>
 Classnames: Malignant, Benign <br/>
 Learning: Supervised Learning <br/>
